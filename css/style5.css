@@ -1,0 +1,30 @@
+.lietkesanpham img {
+  border-radius: 33px;
+}
+h1 {
+  padding-top: 5%;
+  padding-bottom: 4%;
+  text-align: center;
+}
+p {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 5%;
+  font-size: 20px;
+}
+.arm {
+  position: relative;
+}
+.dinhvi {
+  position: absolute;
+  top: 5%;
+  left: 6%;
+  background-color: black;
+  border-bottom-right-radius: 12px;
+  color: beige;
+  width: fit-content;
+  padding: 0;
+}
+.giatien span {
+  text-decoration: line-through;
+}

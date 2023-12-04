@@ -1,0 +1,19 @@
+.tintucs {
+  margin-top: 6%;
+}
+.tin1,
+.tin2,
+.tin3,
+.tin4,
+.tin5 {
+  padding-top: 5%;
+}
+.tintucs img {
+  border-radius: 43px;
+}
+.tintucs p {
+  font-size: 17px;
+}
+.tintucs h6 {
+  line-height: 22px;
+}
